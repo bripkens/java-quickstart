@@ -35,6 +35,7 @@
       <directory></directory>
       <includes>
         <include>.editorconfig</include>
+        <include>.gitignore</include>
         <include>README.md</include>
       </includes>
     </fileSet>
