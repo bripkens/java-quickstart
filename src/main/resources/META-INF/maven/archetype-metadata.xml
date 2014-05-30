@@ -17,10 +17,11 @@
       </includes>
     </fileSet>
 
-    <fileSet filtered="false">
+    <fileSet filtered="true">
       <directory></directory>
       <includes>
         <include>.editorconfig</include>
+        <include>README.md</include>
       </includes>
     </fileSet>
 
