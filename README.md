@@ -10,5 +10,5 @@ configuration file.
   mvn archetype:generate \
     -DarchetypeGroupId=de.bripkens \
     -DarchetypeArtifactId=java-quickstart \
-    -DarchetypeVersion=0.1.0
+    -DarchetypeVersion=0.2.0
 ```
